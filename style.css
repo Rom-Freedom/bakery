@@ -9,11 +9,11 @@
 }
 
 html {
-    font-family: 'Roboto!';
+    font-family: 'Roboto';
 }
 
 @font-face {
-    font-family: 'Roboto!';
+    font-family: 'Roboto';
     src: local('Roboto');
     src: url('Roboto-Regular.eot');
     src: url('Roboto-Regular.eot?#iefix') format('embedded-opentype'),
